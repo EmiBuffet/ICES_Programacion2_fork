@@ -1,0 +1,33 @@
+﻿.tablaAlumnos {
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+.tablaAlumnos td, #alumnos th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.tablaAlumnos tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.tablaAlumnos tr:hover {
+    background-color: #ddd;
+}
+
+.tablaAlumnos th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0465aa;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .tablaAlumnos th {
+        background-color: red;
+    }
+}
+

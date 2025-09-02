@@ -1,0 +1,46 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+
+    <!--  Ejercio: Crear un formulario para crear un alumno
+            Debe tener los campos, nombre, apellido, sexo,
+            fecha de nacimiento y edad.
+    -->
+    <h1>Crear Alumno</h1>
+
+    <form>
+        <label>Nombre</label>
+        <input type="text" id="nombre" />
+        <br />
+        <br />
+        <label>Apellido</label>
+        <input type="text" id="apellido" />
+        <br />
+        <br />
+        <label>Femenino</label>
+        <input type="radio" name="sexo" />
+        <label>Masculino</label>
+        <input type="radio" name="sexo" value="" />
+        <br />
+        <br />
+        <label>Fecha de nacimiento</label>
+        <input type="date" />
+        <br />
+        <br />
+        <label>Edad</label>
+        <input type="number" />
+        <br />
+        <br />
+        <label id="nombreapellido"></label>
+        <br />
+        <br />
+        <button onclick="miFuncion()">Guardar</button>
+    </form>
+    <script src="script.js"></script>
+
+</body>
+</html>

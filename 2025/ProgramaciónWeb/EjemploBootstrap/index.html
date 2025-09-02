@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-info navbar-light">
+        <div class="container-fluid">
+
+            <ul class="navbar-nav">
+                <a class="navbar-brand" href="#">
+                    <img src="ices.svg" alt="Avatar Logo" style="width:40px;" class="rounded-pill">
+                </a>
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Animal</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Dueno</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container col-3">
+    <form action="/action_page.php">
+        <div class="mb-3 mt-3">
+            <label for="email" class="form-label">Usuario:</label>
+            <input type="email" class="form-control" id="email" placeholder="Usuario" name="email">
+        </div>
+        <div class="mb-3">
+            <label for="pwd" class="form-label">Contraseña:</label>
+            <input type="password" class="form-control" id="pwd" placeholder="Ingresar Contraseña" name="pswd">
+        </div>
+        <div class="form-check mb-3">
+            <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" name="remember"> Recordarme
+            </label>
+        </div>
+        <button type="submit" class="btn btn-primary">Ingresar</button>
+    </form>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

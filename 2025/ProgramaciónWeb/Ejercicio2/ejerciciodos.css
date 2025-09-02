@@ -1,0 +1,14 @@
+.fondo {
+    background-color: lightseagreen;
+    width: 20%;
+    text-align: center;
+}
+
+.grupo-input {
+    margin-bottom: 15px;
+}
+
+.grupo-input label {
+    display: inline-block;
+    width: 80px;
+}

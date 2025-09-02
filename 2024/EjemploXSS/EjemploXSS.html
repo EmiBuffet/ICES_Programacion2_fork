@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EjemploXSS</title>
+</head>
+<body>
+    <label>Input Vulnerable con XSS</label>
+    <input id="inputVulnerable" onchange="funcionAceptar()"></input>
+
+    <button onclick="funcionAceptar()">Aceptar</button>
+
+    <br><br>
+    <div id="div"></div>
+    <script>
+        function funcionAceptar(){
+            //Ejemplo <img src='x' onerror='alert(1)'>
+            let inputUsuario = document.querySelector("#inputVulnerable").value;
+            
+            document.querySelector("#div").innerHTML = inputUsuario;
+            
+        }
+    </script>
+</body>
+</html>

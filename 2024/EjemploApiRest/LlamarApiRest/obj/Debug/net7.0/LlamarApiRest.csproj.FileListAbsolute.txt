@@ -1,0 +1,15 @@
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\bin\Debug\net7.0\LlamarApiRest.exe
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\bin\Debug\net7.0\LlamarApiRest.deps.json
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\bin\Debug\net7.0\LlamarApiRest.runtimeconfig.json
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\bin\Debug\net7.0\LlamarApiRest.dll
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\bin\Debug\net7.0\LlamarApiRest.pdb
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.csproj.AssemblyReference.cache
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.AssemblyInfoInputs.cache
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.AssemblyInfo.cs
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.csproj.CoreCompileInputs.cache
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.dll
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\refint\LlamarApiRest.dll
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.pdb
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\LlamarApiRest.genruntimeconfig.cache
+C:\Users\emibu\Documents\ICES\ICES_Programacion2\EjemploApiRest\LlamarApiRest\obj\Debug\net7.0\ref\LlamarApiRest.dll
