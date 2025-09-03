@@ -66,8 +66,9 @@ jobs:
           app-name: 'EmiPruebaWebApp'
           slot-name: 'Production'
           package: .
-
+          app-settings: 'ASPNETCORE_ENVIRONMENT=Development'
           
+
 
 
 
