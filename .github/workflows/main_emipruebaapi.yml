@@ -67,6 +67,9 @@ jobs:
           app-name: 'EmiPruebaAPI'
           slot-name: 'Production'
           package: .
+        env:
+          ASPNETCORE_ENVIRONMENT: Development
 
           
+
 
