@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj": {}
+    "C:\\Users\\emibu\\Downloads\\ICES_Programacion2_fork\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj": {
+    "C:\\Users\\emibu\\Downloads\\ICES_Programacion2_fork\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\emibu\\Downloads\\ICES_Programacion2_fork\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj",
         "projectName": "PersonaWeb",
-        "projectPath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj",
+        "projectPath": "C:\\Users\\emibu\\Downloads\\ICES_Programacion2_fork\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb.csproj",
         "packagesPath": "C:\\Users\\emibu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\PersonaWeb\\PersonaWeb\\PersonaWeb\\obj\\",
+        "outputPath": "C:\\Users\\emibu\\Downloads\\ICES_Programacion2_fork\\2025\\PersonaWeb\\PersonaWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
